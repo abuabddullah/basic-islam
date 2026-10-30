@@ -1,0 +1,14 @@
+# Scratch & temporary folders
+scratch/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary media & backups
+*.mp4
+*.m4a
+*.png
+*.bak
+*.bak*
+
